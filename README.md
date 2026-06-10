@@ -138,4 +138,6 @@ conditional formatting and SUMIF scoring formulas for easy tracking.
 
 ---
 
+Q1 2025 Executive Risk Report is complete. Additional assessment cycles will be added as the program builds out.
+
 
