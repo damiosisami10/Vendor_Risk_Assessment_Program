@@ -19,9 +19,10 @@ The foundational governance document for the program. Covers:
 - Audit artifact retention schedule
 
 ### 2. Vendor Assessment Questionnaire
-`NorthPay_Vendor_Assessment_Questionnaire_v1.0.docx`
+[`NorthPay_Vendor_Assessment_Questionnaire_v1.0.docx`](https://docs.google.com/document/d/1HEKYuEDSLuEBsQ_Xv35tZKeo90THfS94dvrd7dPVNCM/edit?usp=sharing)
 
-A 45-question DDQ structured across five domains, each mapped to a framework:
+A 15-question vendor assessment questionnaire structured across five domains, used for Tier 1 and Tier 2 vendors. Covers Information Security Governance, Access Control, Data Protection and Encryption, Incident Response, and Business Continuity. Includes a Document Request List requiring SOC 2 Type II or ISO certificate, penetration test executive summary, and cyber insurance evidence.
+A 3-question self-attestation form scoped to data scope confirmation only, used for Tier 3 vendors.
 
 | Domain | Framework |
 |---|---|
@@ -32,19 +33,19 @@ A 45-question DDQ structured across five domains, each mapped to a framework:
 | Incident Response & Reporting | ISO 27001 A.5.24–28, NIST RS.RP, GDPR Art.33 |
 
 Includes a vendor profile and attestation section, completion instructions,
-and an internal GRC analyst scoring rubric (0–3 per question, composite
-rating thresholds with analyst action).
+and an internal GRC analyst scoring rubric (0–2 per question, composite rating thresholds with analyst action).
 
 ### 3. Self-Attestation DDQ
-`NorthPay_SelfAttestation_DDQ_v1.0.xlsx`
 
-A 15-question Excel-based questionnaire for Tier 3 vendors. Features dropdown
-response validation (Yes/No/Partial/N/A), evidence requirement flags,
-framework references per question, and a GRC scoring tracker tab with a
-SUMIF-based total score and composite rating guide.
+A 3-question self-attestation form scoped to data scope confirmation only,
+used for Tier 3 vendors. Vendors attest to whether they store, process, or
+transmit NorthPay cardholder data, whether they access NorthPay customer PII,
+and whether any security incidents affecting NorthPay staff have occurred in
+the last 12 months. Scored on a Pass/Fail basis only.
+
 
 ### 4. Mock Assessment Results
-`NorthPay_MockAssessment_Results_v1.0.xlsx`
+[`NorthPay_MockAssessment_Results_v1.0.xlsx`](https://docs.google.com/spreadsheets/d/1iEIRZB_u2x-R4P4d_gh2p9FWsIU8ckxlKEEfI7CUDHE/edit?usp=sharing)
 
 Populated assessment results for three vendors across all three risk tiers:
 
@@ -59,7 +60,7 @@ findings, and recommended controls. Summary dashboard with finding counts
 by severity (P1/P2/P3) and live formula totals.
 
 ### 5. Q1 2025 Executive Risk Report
-`NorthPay_Vendor_Risk_Assessment_Report_Q1_2025.docx`
+[`NorthPay_Vendor_Risk_Assessment_Report_Q1_2025.docx`](https://docs.google.com/document/d/1QNCNkFb6g2FmDIee9IzVUSYd78vesDY_VltVkycuZ6o/edit?usp=sharing)
 
 Executive-facing quarterly report structured for CISO, CRO, and Board Risk
 Committee consumption. Covers:
@@ -123,15 +124,16 @@ conditional formatting, SUMIF scoring formulas, and a live summary dashboard.
 
 ## Tools Used
 
-- **Google Docs** — All program documents produced in Google Docs:
+- **Google Docs** - All program documents produced in Google Docs:
   - TPRM Program Scope Document (NorthPay_TPRM_Program_Scope_v1.0)
-  - Vendor Assessment Questionnaire — 45 questions across 5 domains (NorthPay_Vendor_Assessment_Questionnaire_v1.0)
+  - Vendor Assessment Questionnaire — 15 questions across 5 domains, scored 0–2 (NorthPay_Vendor_Assessment_Questionnaire_v1.0)
   - Q1 2025 Executive Risk Report including structured findings F-001 through F-007, risk treatment recommendations, and program metrics (NorthPay_Vendor_Risk_Assessment_Report_Q1_2025)
+
 
 - **Google Sheets** — All spreadsheet-based artifacts:
   - Vendor inventory register with risk tier classification and assessment status tracking
   - Self-attestation DDQ with dropdown response validation and GRC scoring tracker (NorthPay_SelfAttestation_DDQ_v1.0)
-  - Mock assessment results across three vendors with color-coded scoring, finding documentation, and summary dashboard (NorthPay_MockAssessment_Results_v1.0)
+  - Mock assessment results across three vendors with scoring, finding documentation. (NorthPay_MockAssessment_Results_v1.0)
   - 5x5 risk heat map scored by likelihood and impact with conditional formatting bands
 
 ---
