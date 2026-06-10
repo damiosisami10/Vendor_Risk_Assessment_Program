@@ -67,7 +67,7 @@ Committee consumption. Covers:
 - Program snapshot: vendors assessed, high risk ratings, open P1 findings
 - Headline finding narrative in plain language
 - Findings at a glance table
-- Seven structured findings (F-001 through F-007) with observation, risk
+- Seven structured findings (F-0001 through F-0005) with observation, risk
   statement, recommendation, target date, and owner
 - Risk treatment recommendations mapped to ISO 27001 Annex A controls:
 
@@ -106,11 +106,11 @@ control, not a general category.
 access, operational criticality, and regulatory exposure. Assessment depth,
 DDQ format, and cadence vary by tier.
 
-**Gap analysis** - Current-state gaps documented with P1–P3 prioritisation,
+**Gap analysis** - Current-state gaps documented with P1-P3 prioritisation,
 remediation owners, and target dates.
 
-**Finding documentation** - Findings structured with observation, risk
-statement, recommendation, target date, and owner — consistent with how
+**Finding documentation** - Findings weere structured with observation, risk
+statement, recommendation, target date, and owner which is consistent with how
 findings are recorded in GRC platforms.
 
 **Executive reporting** - Risk findings translated into plain-language
@@ -118,7 +118,7 @@ summaries for non-technical stakeholders, with a defined monthly metrics
 baseline for ongoing program tracking.
 
 **Spreadsheet-based GRC tooling** - Excel workbooks with dropdown validation,
-conditional formatting, SUMIF scoring formulas, and a live summary dashboard.
+conditional formatting and SUMIF scoring formulas for easy tracking.
 
 ---
 
@@ -126,8 +126,8 @@ conditional formatting, SUMIF scoring formulas, and a live summary dashboard.
 
 - **Google Docs** - All program documents produced in Google Docs:
   - TPRM Program Scope Document (NorthPay_TPRM_Program_Scope_v1.0)
-  - Vendor Assessment Questionnaire — 15 questions across 5 domains, scored 0–2 (NorthPay_Vendor_Assessment_Questionnaire_v1.0)
-  - Q1 2025 Executive Risk Report including structured findings F-001 through F-007, risk treatment recommendations, and program metrics (NorthPay_Vendor_Risk_Assessment_Report_Q1_2025)
+  - Vendor Assessment Questionnaire - 15 questions across 5 domains, scored 0–2 (NorthPay_Vendor_Assessment_Questionnaire_v1.0)
+  - Q1 2025 Executive Risk Report including structured findings F-0001 through F-0005, risk treatment recommendations, and program metrics (NorthPay_Vendor_Risk_Assessment_Report_Q1_2025)
 
 
 - **Google Sheets** — All spreadsheet-based artifacts:
