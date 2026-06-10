@@ -11,7 +11,7 @@
 
 The foundational governance document for the program. Covers:
 - Program scope and in-scope/out-of-scope criteria
-- Vendor risk tiering model (Tier 1 Critical → Tier 3 Low)
+- Vendor risk tiering model (Tier 1 Critical to Tier 3 Low)
 - RACI matrix across GRC, Legal, IT/SecOps, and Procurement
 - Control mapping across NIST CSF 2.0, ISO 27001:2022, PCI DSS v4.0, and SOC 2
 - Current-state gap analysis with P1–P3 prioritisation
