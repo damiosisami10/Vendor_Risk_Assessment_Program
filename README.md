@@ -73,10 +73,10 @@ Committee consumption. Covers:
 
 | Finding | ISO 27001 Control |
 |---|---|
-| CloudVault — no breach notification SLA | A.5.26 Response to information security incidents |
-| CloudVault — BCP untested 26 months | A.5.29 Information security during disruption |
-| PayAnalytics — MFA absent | A.8.5 Secure authentication |
-| PayAnalytics — pen test lapsed 18 months | A.8.8 Management of technical vulnerabilities |
+| CloudVault - no breach notification SLA | A.5.26 Response to information security incidents |
+| CloudVault - BCP untested 26 months | A.5.29 Information security during disruption |
+| PayAnalytics - MFA absent | A.8.5 Secure authentication |
+| PayAnalytics - pen test lapsed 18 months | A.8.8 Management of technical vulnerabilities |
 
 - Program metrics baseline: total vendors assessed, open High findings,
   vendors overdue for reassessment, average assessment score
@@ -85,39 +85,39 @@ Committee consumption. Covers:
 
 ## Frameworks Applied
 
-- **ISO 27001:2022** — Clause 8.4 (supplier relationships), Annex A controls
+- **ISO 27001:2022** - Clause 8.4 (supplier relationships), Annex A controls
   A.5.1, A.5.15, A.5.18, A.5.24, A.5.26, A.5.29, A.8.5, A.8.8, A.8.24
-- **NIST CSF 2.0** — ID.SC (supply chain risk), PR.AA (identity management),
+- **NIST CSF 2.0** - ID.SC (supply chain risk), PR.AA (identity management),
   GV.PO (policy), RS.RP (incident response), RC.RP (recovery)
-- **PCI DSS v4.0** — Requirements 3, 4, 8, 12
-- **SOC 2** — CC9.2 (vendor and business partner management)
-- **GDPR** — Article 28 (processor agreements), Article 33 (breach notification)
-- **PIPEDA** — Breach notification obligations
+- **PCI DSS v4.0** - Requirements 3, 4, 8, 12
+- **SOC 2** - CC9.2 (vendor and business partner management)
+- **GDPR** - Article 28 (processor agreements), Article 33 (breach notification)
+- **PIPEDA** - Breach notification obligations
 
 ---
 
 ## Skills Demonstrated
 
-**Control mapping** — Assessment questions, findings, and treatment
+**Control mapping** - Assessment questions, findings, and treatment
 recommendations are each tied to a specific framework clause or Annex A
 control, not a general category.
 
-**Risk tiering** — Vendors classified using a three-tier model based on data
+**Risk tiering** - Vendors classified using a three-tier model based on data
 access, operational criticality, and regulatory exposure. Assessment depth,
 DDQ format, and cadence vary by tier.
 
-**Gap analysis** — Current-state gaps documented with P1–P3 prioritisation,
+**Gap analysis** - Current-state gaps documented with P1–P3 prioritisation,
 remediation owners, and target dates.
 
-**Finding documentation** — Findings structured with observation, risk
+**Finding documentation** - Findings structured with observation, risk
 statement, recommendation, target date, and owner — consistent with how
 findings are recorded in GRC platforms.
 
-**Executive reporting** — Risk findings translated into plain-language
+**Executive reporting** - Risk findings translated into plain-language
 summaries for non-technical stakeholders, with a defined monthly metrics
 baseline for ongoing program tracking.
 
-**Spreadsheet-based GRC tooling** — Excel workbooks with dropdown validation,
+**Spreadsheet-based GRC tooling** - Excel workbooks with dropdown validation,
 conditional formatting, SUMIF scoring formulas, and a live summary dashboard.
 
 ---
@@ -138,9 +138,4 @@ conditional formatting, SUMIF scoring formulas, and a live summary dashboard.
 
 ---
 
-## Status
-
-Q1 2025 report Section 1 (Executive Summary) is complete. Sections 2 and 3
-(vendor-level findings detail) are in progress and will be added as the
-program builds out.
 
