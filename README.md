@@ -7,7 +7,7 @@
 ## What's in This Repo
 
 ### 1. TPRM Program Scope Document
-`NorthPay_TPRM_Program_Scope_v1.0.docx`
+[`NorthPay_TPRM_Program_Scope_v1.0.docx`](https://docs.google.com/document/d/1oc5cmbzCxvnAEHwXQ6-VfO_9Wa7qzyAKOUCdxkGxKXQ/edit?usp=sharing)
 
 The foundational governance document for the program. Covers:
 - Program scope and in-scope/out-of-scope criteria
