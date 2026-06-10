@@ -1,13 +1,6 @@
-# Vendor Risk Assessment Program Build Using a Free GRC Template and MetricStream Concepts
+# Vendor Risk Assessment Program Build Using a Free GRC Template and MetricStream Concepts - NorthPay Financial (Simulation)
 
-> A structured third-party vendor risk assessment program built using open-source GRC templates and MetricStream workflow concepts, producing a repeatable process that identifies, scores, and reports vendor risk against ISO 27001 and NIST CSF controls.
-# Vendor Risk Assessment Program — NorthPay Financial (Simulation)
-
-A third-party risk management program built from scratch to simulate the work
-a GRC analyst does in a financial services environment. Every artifact in this
-repo was produced manually — no enterprise platform, no pre-built templates.
-The program covers the full vendor risk lifecycle: scoping, tiering, assessment,
-scoring, findings documentation, and executive reporting.
+> A structured third-party vendor risk assessment program built using open-source GRC templates and MetricStream workflow concepts, producing a repeatable process that identifies, scores, and reports vendor risk against ISO 27001 and NIST CSF controls. The program covers the full vendor risk lifecycle: scoping, tiering, assessment, scoring, findings documentation, and executive reporting.
 
 ---
 
