@@ -50,7 +50,7 @@ Populated assessment results for three vendors across all three risk tiers:
 
 | Vendor | Tier | Score | Rating |
 |---|---|---|---|
-| CloudVault Inc. | Tier 1 — Critical | 17/30 (57%) | High Risk |
+| CloudVault Inc. | Tier 1 — Critical | 23/30 (77%) | High Risk |
 | PayAnalytics Co. | Tier 2 — Significant | 14/30 (47%) | High Risk |
 | OfficeComms Ltd. | Tier 3 — Low | 2P / 1F | Pass w/ Action |
 
