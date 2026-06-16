@@ -9,7 +9,7 @@
 ### 1. TPRM Program Scope Document
 [`NorthPay_TPRM_Program_Scope_v1.0.docx`](https://docs.google.com/document/d/1oc5cmbzCxvnAEHwXQ6-VfO_9Wa7qzyAKOUCdxkGxKXQ/edit?usp=sharing)
 
-The foundational governance document for the program. Covers:
+The foundational governance document for the program covers:
 - Program scope and in-scope/out-of-scope criteria
 - Vendor risk tiering model (Tier 1 Critical to Tier 3 Low)
 - RACI matrix across GRC, Legal, IT/SecOps, and Procurement
